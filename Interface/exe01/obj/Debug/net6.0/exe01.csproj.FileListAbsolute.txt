@@ -1,0 +1,15 @@
+C:\Users\mahva\source\repos\Curso_CSharp_Modulo01_Nivelamento\Interface\exe01\bin\Debug\net6.0\exe01.exe
+C:\Users\mahva\source\repos\Curso_CSharp_Modulo01_Nivelamento\Interface\exe01\bin\Debug\net6.0\exe01.deps.json
+C:\Users\mahva\source\repos\Curso_CSharp_Modulo01_Nivelamento\Interface\exe01\bin\Debug\net6.0\exe01.runtimeconfig.json
+C:\Users\mahva\source\repos\Curso_CSharp_Modulo01_Nivelamento\Interface\exe01\bin\Debug\net6.0\exe01.dll
+C:\Users\mahva\source\repos\Curso_CSharp_Modulo01_Nivelamento\Interface\exe01\bin\Debug\net6.0\exe01.pdb
+C:\Users\mahva\source\repos\Curso_CSharp_Modulo01_Nivelamento\Interface\exe01\obj\Debug\net6.0\exe01.csproj.AssemblyReference.cache
+C:\Users\mahva\source\repos\Curso_CSharp_Modulo01_Nivelamento\Interface\exe01\obj\Debug\net6.0\exe01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahva\source\repos\Curso_CSharp_Modulo01_Nivelamento\Interface\exe01\obj\Debug\net6.0\exe01.AssemblyInfoInputs.cache
+C:\Users\mahva\source\repos\Curso_CSharp_Modulo01_Nivelamento\Interface\exe01\obj\Debug\net6.0\exe01.AssemblyInfo.cs
+C:\Users\mahva\source\repos\Curso_CSharp_Modulo01_Nivelamento\Interface\exe01\obj\Debug\net6.0\exe01.csproj.CoreCompileInputs.cache
+C:\Users\mahva\source\repos\Curso_CSharp_Modulo01_Nivelamento\Interface\exe01\obj\Debug\net6.0\exe01.dll
+C:\Users\mahva\source\repos\Curso_CSharp_Modulo01_Nivelamento\Interface\exe01\obj\Debug\net6.0\refint\exe01.dll
+C:\Users\mahva\source\repos\Curso_CSharp_Modulo01_Nivelamento\Interface\exe01\obj\Debug\net6.0\exe01.pdb
+C:\Users\mahva\source\repos\Curso_CSharp_Modulo01_Nivelamento\Interface\exe01\obj\Debug\net6.0\exe01.genruntimeconfig.cache
+C:\Users\mahva\source\repos\Curso_CSharp_Modulo01_Nivelamento\Interface\exe01\obj\Debug\net6.0\ref\exe01.dll
